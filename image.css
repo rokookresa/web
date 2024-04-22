@@ -1,5 +1,7 @@
 body
 {
     background-image: url("racunalo.jpg")
+    background-position-y: top;
+    background-position-x: right;
 
 }
