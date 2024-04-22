@@ -6,3 +6,8 @@ body
     background-repeat: no-repeat;
 
 }
+p
+{
+    font-family: Verdana,Helvetica, sans-serif;
+    font-size: 12px;
+}
