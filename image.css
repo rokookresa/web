@@ -4,6 +4,7 @@ body
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat;
+    text-align:justify:
 
 }
 p
@@ -18,3 +19,14 @@ p.citat
     border: 1px solid #000;
     background-colour:#ffffcc;
 }
+p.drugi
+{
+    color: "firebrick";
+    text-align: center;
+    text-decoration: underline;
+}
+p.treci
+{
+    text-align: right;
+}
+    
