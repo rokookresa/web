@@ -29,6 +29,7 @@ p.drugi
     border-left: white;
     border-right-color:black;
     border-top-color:black;
+    margin-left: 4px;
 }
 p.treci
 {
@@ -37,6 +38,14 @@ p.treci
     border-width: thick;
     border-color: green;
     padding: 15px;
+    margin-left: 8px;
+}
+
+
+h1
+{
+    margin-top: 2px;
+    
 }
     
     
