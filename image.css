@@ -33,5 +33,9 @@ p.drugi
 p.treci
 {
     text-align: right;
+    border-style:inset;
+    border-width: thick;
+    border-color: green;
 }
+    
     
